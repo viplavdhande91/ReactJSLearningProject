@@ -1,2 +1,2 @@
-## React Master Branch
+## React master Branch
 
